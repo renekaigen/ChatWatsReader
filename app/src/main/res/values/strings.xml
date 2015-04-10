@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">WhatsappMst</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!--- My DEBUG COMMANDS -->
+    <string name="Log_NR1">Notificaction Listener Service -  metodo onNotificationPosted</string>
+    <string name="Log_NR2">Notificaction Listener Service -  metodo onNotificationRemoved</string>
+
+    <string name="LogBR_Receiver_S1">Iniciando metodo onReceive-Service</string>
+    <string name="LogBR_Receiver_S2">Unregistered el BroadcastReceiver-Service</string>
+    <string name="LogBR_Receiver_S3">En Constructor del  BroadcastReceiver-Service</string>
+    <string name="LogBR_Receiver_S4">En opcion limpiar todo del BroadcastReceiver-Service</string>
+    <string name="LogBR_Receiver_S5">En opcion listado del   BroadcastReceiver-Service</string>
+
+    <string name="LogBR_Receiver_M1">Iniciando metodo onReceive-Main</string>
+    <string name="LogBR_Receiver_M2">Unregistered el BroadcastReceiver-Main</string>
+
+
+
+    <string name="LogCicleLife_OnCreate">OnCreate</string>
+    <string name="LogCicleLife_OnResume">OnResume</string>
+    <string name="LogCicleLife_OnPause">OnPause</string>
+    <string name="LogCicleLife_OnStart">OnStart</string>
+    <string name="LogCicleLife_OnDestroy">OnDestroy</string>
+
+
+    <string name="constructor">Constructor</string>
+    <string name="getPackageReceived">Metodo getPackageReceived </string>
+    <string name="getNumberWhatss">Metodo getNumberWhatss , el numero es : </string>
+    <string name="getUnixTimeInterval">En metodo getUnixTimeInterval</string>
+    <string name="PreUnixTIme">Pre-Unix es : </string>
+    <string name="UnixTIme">Tiempo Unix es : </string>
+    <string name="PostUnixTIme">Post-Unix es : </string>
+
+    <string name="nextprocessYes"> Sigue con el proceso</string>
+    <string name="nextprocessNO"> No Sigue con el proceso</string>
+
+
+</resources>
